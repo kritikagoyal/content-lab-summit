@@ -6,7 +6,7 @@
         "en": "Generate with AI"
       },
       "environments": [
-        "preview"
+        "preview", "edit"
       ],
       "includePaths": [
         "**.docx**"
