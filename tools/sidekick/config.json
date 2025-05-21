@@ -25,6 +25,12 @@
         "**.docx**"
       ],
       "event": "aem-genai-variations-sidekick"
+    },
+    {
+      "id": "library",
+      "title": "Library",
+      "environments": ["edit"],
+      "url": "/tools/sidekick/library.html"
     }
   ]
 }
